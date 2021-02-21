@@ -4,3 +4,6 @@ In this challenge, you are given walkatime data of some students and how they pe
 <b>Input</b>: You are given one feature corresponding to time noted by walkatime.
 
 <b>Output</b>: A scalar denoting the level of perfomance student achived by devoting the given time.
+
+## Model:
+<img src="graphs.png"></img>
