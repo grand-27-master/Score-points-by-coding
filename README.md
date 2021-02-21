@@ -7,3 +7,9 @@ In this challenge, you are given walkatime data of some students and how they pe
 
 ## Model:
 <img src="graphs.png"></img>
+
+## Input:
+<img src="input.png"></img>
+
+## Output:
+<img src="output.png"></img>
