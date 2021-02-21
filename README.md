@@ -14,4 +14,4 @@ In this challenge, you are given walkatime data of some students and how they pe
 ## Output:
 <img src="output.png"></img>
 
-Made with &#10084;
+Made with &#10084; by <a href="https://www.linkedin.com/in/vashishth-gajjar-a798b2195/">Vashishth Gajjar</a>
