@@ -13,3 +13,5 @@ In this challenge, you are given walkatime data of some students and how they pe
 
 ## Output:
 <img src="output.png"></img>
+
+Made with &#10084;
